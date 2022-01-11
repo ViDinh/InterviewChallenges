@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7249" started-at="2022-01-11T15:34:18 ICT" finished-at="2022-01-11T15:34:25 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7249" started-at="2022-01-11T15:34:18 ICT" finished-at="2022-01-11T15:34:25 ICT">
+      <class name="com.webui.loginpage.Class_01_Login_Into_The_System">
+        <test-method status="PASS" signature="TC_01_Login_With_Incorrect_UserName_And_Passowrd()[pri:0, instance:com.webui.loginpage.Class_01_Login_Into_The_System@61df66b6]" name="TC_01_Login_With_Incorrect_UserName_And_Passowrd" duration-ms="7027" started-at="2022-01-11T15:34:18 ICT" finished-at="2022-01-11T15:34:25 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Login_With_Incorrect_UserName_And_Passowrd -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.webui.loginpage.Class_01_Login_Into_The_System@61df66b6]" name="tearDown" is-config="true" duration-ms="85" started-at="2022-01-11T15:34:25 ICT" finished-at="2022-01-11T15:34:25 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.webui.loginpage.Class_01_Login_Into_The_System -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
