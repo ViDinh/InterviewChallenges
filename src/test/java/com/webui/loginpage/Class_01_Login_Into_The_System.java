@@ -1,9 +1,7 @@
 package com.webui.loginpage;
 
-import java.sql.Driver;
 import java.time.Duration;
 
-import org.apache.velocity.convert.WebMacro;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
